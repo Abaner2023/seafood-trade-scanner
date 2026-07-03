@@ -1,0 +1,11 @@
+year,importer_country,supplier_country,product_group,trade_value_usd,quantity_kg,avg_price_per_kg
+2020,Nigeria,China,Frozen mackerel,12000000,8000000,1.50
+2021,Nigeria,China,Frozen mackerel,14500000,8700000,1.67
+2022,Nigeria,Netherlands,Frozen mackerel,16000000,9100000,1.76
+2023,Ghana,China,Frozen mackerel,11000000,7600000,1.45
+2024,Ghana,Morocco,Frozen mackerel,15000000,8300000,1.81
+2023,Spain,Argentina,Frozen hake,22000000,9000000,2.44
+2024,Spain,Argentina,Frozen hake,26500000,9700000,2.73
+2023,Thailand,Vietnam,Frozen yellowfin tuna,30000000,15000000,2.00
+2024,Thailand,Indonesia,Frozen yellowfin tuna,36000000,16500000,2.18
+2024,United States,India,Frozen shrimp,85000000,21000000,4.05
